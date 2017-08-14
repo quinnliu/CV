@@ -1,7 +1,7 @@
 ## Q Liu
 
 <b>TLDR</b>:  
-My competencies are in [drawing](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
+My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
 
 My current life philosophy is I try to live every 12 hours as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 24 hours as my last. If that ends up being too hard I go back to 1 week, then 1 month, then 6 months, etc. 
 
