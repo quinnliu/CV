@@ -3,10 +3,6 @@
 <b>TLDR</b>:  
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
 
-My current life philosophy is I try to live every 12 hours as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 24 hours as my last. If that ends up being too hard I go back to 1 week, then 1 month, then 6 months, etc. 
-
-Another life philosophy I've recently adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are JZ(Mom), SL(Dad), Grandma & Grandpa, H & J(siblings), Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith(1st real friend), Myron Barnstone(Art mentor), Jeff Hawkins(AGI mentor), Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat(YouTube mentor), Maggie Q, K & J, Dileep George(AGI mentor), Scott Brown(AGI mentor), OC, Brian O'Kelley, Neil Gaiman, Jim Carry, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, RDJ, CE, MR, SJ, PB, SLJ, SM, etc.
-
 quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Twitter](https://twitter.com/qn1over12) | [Art on Instagram](https://www.instagram.com/letterqliu/)
 
 ## FORMAL EDUCATION
@@ -119,3 +115,8 @@ intelligence faster than code based intelligence.
 - Web development
   + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
   + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
+  
+## Q Liu
+My current life philosophy is I try to live every 12 hours as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 24 hours as my last. If that ends up being too hard I go back to 1 week, then 1 month, then 6 months, etc. 
+
+Another life philosophy I've recently adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are JZ(Mom), SL(Dad), Grandma & Grandpa, H & J(siblings), Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith(1st real friend), Myron Barnstone(Art mentor), Jeff Hawkins(AGI mentor), Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat(YouTube mentor), Maggie Q, K & J, Dileep George(AGI mentor), Scott Brown(AGI mentor), OC, Brian O'Kelley, Neil Gaiman, Jim Carry, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, RDJ, CE, MR, SJ, PB, SLJ, SM, etc.
