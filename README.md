@@ -16,8 +16,8 @@ quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
 - Courses taken at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
   
-## TECHNICAL PASSION PROJECTS
-<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
+## FUN TECHNICAL PROJECTS
+<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
 - <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence. 
 
 - In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
@@ -56,7 +56,7 @@ intelligence faster than code based intelligence.
 ## JOB EXPERIENCE
 <b>Part Time assistant at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
   
-<b>Left AppNexus to travel with GF and work on passion projects full time | Sept. 2016 - Present</b>
+<b>Left AppNexus to travel with GF and work on fun technical projects full time | Sept. 2016 - Aug. 2017</b>
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
@@ -105,7 +105,7 @@ intelligence faster than code based intelligence.
 - I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I was very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
 - FUN FACT: While at RC I also tried to convince George Bachman(CTO of [OpenAI](https://openai.com/)) to pursue Numenta's CLA to build AGI which I now believe is not the best approach to AGI. Overall, I made a lot of mistakes while at RC. I'm sorry. 
   
-## ADDITIONAL TECHNICAL PROJECTS
+## SMALLER FUN TECHNICAL PROJECTS
 - `*` = code is a school project & therefore not shown
 - Git 
   + cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
