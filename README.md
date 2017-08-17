@@ -80,9 +80,6 @@ intelligence faster than code based intelligence.
 <b>Part time researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
 - Interdisciplinary research with neuroscientist Dr.Cate on models of spatial 
   learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
-  
-<b>Dish Washer, Sandwhich Maker, Salad Tosser, etc. at Virginia Tech West End for 75 hours | 2012 - 2013</b>
-- During freshman year I took a non-credit engineering survey class and went to the 1st class to get to know more cute girls that studied engineering. Throughout the semester if I went to a class that ended up being boring I would swipe my student ID card at the beginning of class and then leave. Lucky for me the Dean of Engineering at VT realized this was happening and decided to also swipe all of the students at the end of class one day. Guess who was not in class & coding AGI? I went through a student trail and was given 75 hours of community service for premeditated skipping of class. I learned a lot from this experience becuase it forced me to realize what still needs to be fixed & provided me with a lot of time to think about how I want to live in the future. One of the lessons is don't chase cute girls. 
 
 <b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
 - [Visual Portfolio](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md) of drawing, designing, & painting 100+ hours/week for 10 weeks each summer. 
@@ -95,11 +92,7 @@ intelligence faster than code based intelligence.
 <b>Co-founded Visual Art Club at Virginia Tech | 2011 – 2013</b>  
 - Started club with two friends also passionate about visual art. We organized weekly meetings where I presented my 
   knowledge on classical visual arts to 20+ members through 2 hour workshops. Members with competence
-  in other areas were also given the opportunity to present.
-  
-<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
-- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I was very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
-- FUN FACT: While at RC I also tried to convince George Bachman(CTO of [OpenAI](https://openai.com/)) to pursue Numenta's CLA to build AGI which I now believe is not the best approach to AGI. Overall, I made a lot of mistakes while at RC. I'm sorry. 
+  in other areas were also given the opportunity to present. 
   
 ## SMALLER FUN TECHNICAL PROJECTS
 - `*` = code is a school project & therefore not shown
