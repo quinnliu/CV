@@ -50,7 +50,7 @@ intelligence faster than code based intelligence.
 <b>[Technical Drawings](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
 
 ## JOB EXPERIENCE
-<b>Part Time assistant at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
+<b>Part Time at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
 <b>Left AppNexus to travel with GF & work on fun technical projects full time | Sept. 2016 - Aug. 2017</b>
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
