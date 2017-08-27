@@ -52,7 +52,8 @@ intelligence faster than code based intelligence.
 ## JOB EXPERIENCE
 <b>Part Time at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
-<b>Left AppNexus to work on fun technical projects full time & travel | Sept. 2016 - Aug. 2017</b>
+<b>After projects finished left AppNexus to work on technical projects full time & travel | Sept. 2016 - Aug. 2017</b>
+- Private coding tutor for 4 students teaching D3.js, Redux, React, Javascript, & Python 
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
