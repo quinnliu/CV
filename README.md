@@ -85,7 +85,7 @@ intelligence faster than code based intelligence.
 - Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
   design, & oil painting techniques including gold section & fletcher color
   system to produce
-  [visual portfolio](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md)
+  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md)
 
 ## COMMUNITIES
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
