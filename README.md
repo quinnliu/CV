@@ -88,16 +88,16 @@ intelligence faster than code based intelligence.
   [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md)
 
 ## COMMUNITIES
+<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
+- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
+
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
 - Lived together with 25 other developers in the program & had a lecture series with founders of top NYC based tech companies including Joel Spolsky (Trello & stackoverflow), Jonah Peretti(HuffPo & Buzzfeed), Fred Wilson(USV), Zach Sims(codecademy), Ryan Bubinski(codecademy), etc. to learn the ins & outs of starting & leading a startup.
 
 <b>Co-founded Visual Art Club at Virginia Tech | 2011 – 2013</b>  
 - Taught 20+ members through 2 hour/week workshops about the classical visual
   arts. Started the club with 2 friends also passionate about visual arts.
-- Members with competence in other areas were also given the opportunity to present. 
-
-<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
-- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
+- Members with competence in other areas were also given the opportunity to present.
 
 ## SMALLER FUN TECHNICAL PROJECTS
 - `*` = code is a school project & therefore not shown
