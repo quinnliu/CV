@@ -96,6 +96,9 @@ intelligence faster than code based intelligence.
   arts. Started the club with 2 friends also passionate about visual arts.
 - Members with competence in other areas were also given the opportunity to present. 
 
+<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
+- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
+
 ## SMALLER FUN TECHNICAL PROJECTS
 - `*` = code is a school project & therefore not shown
 - Git
