@@ -8,6 +8,7 @@ quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
 - Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
+- Last semester GPA dropped to <3.0 to pursue startup idea that failed
 
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
 - Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
@@ -52,7 +53,7 @@ intelligence faster than code based intelligence.
 ## JOB EXPERIENCE
 <b>Part Time at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
-<b>After projects finished left AppNexus to work on technical projects full time & travel | Sept. 2016 - Aug. 2017</b>
+<b>After AppNexus projects finished left to work on startup ideas full time & travel | Sept. 2016 - Aug. 2017</b>
 - Private coding tutor for 4 students teaching D3.js, Redux, React, Javascript, & Python 
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
 
