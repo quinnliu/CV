@@ -27,7 +27,7 @@ about building AGI to help humanity in the first place. Now the goal is to resea
 intelligence faster than code based intelligence.
 
 <b>[Q Notes](https://github.com/quinnliu/q_notes) | Aug 2017 - Present</b>
-- Reading tracker & blog on people, ideas, & things I'm learning
+- Listening to 1-2 audiobooks a day tracker & blog on people, ideas, & things I'm learning
 
 <b>College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2017</b>  
