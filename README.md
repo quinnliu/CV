@@ -3,6 +3,8 @@
 <b>TLDR</b>:  
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
 
+Currently looking for a full time software engineering role in NYC at a startup.
+
 quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Twitter](https://twitter.com/qn1over12) | [Art on Instagram](https://www.instagram.com/letterqliu/)
 
 ## FORMAL EDUCATION
