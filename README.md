@@ -56,7 +56,7 @@ intelligence faster than code based intelligence.
 <b>Part Time at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
 <b>After AppNexus projects finished left to work on startup ideas full time & travel | Sept. 2016 - Aug. 2017</b>
-- Private coding tutor for 4 students teaching D3.js, Redux, React, Javascript, & Python 
+- Private coding mentor for 4 students teaching D3.js, Redux, React, Javascript, & Python 
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
@@ -116,6 +116,7 @@ intelligence faster than code based intelligence.
 - Web development
   + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
   + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
+- Finished Jersey City Triathlon 2016 with single gear bike 
 
 ## Q Liu
 One of my life philosophies is I try to live every 12 hours as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 24 hours as my last. If that ends up being too hard I go back to 1 week, then 1 month, then 6 months, etc.
