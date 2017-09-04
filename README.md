@@ -54,7 +54,7 @@ intelligence faster than code based intelligence.
   & websocket server.
   [Client code](https://github.com/Laybium/laybium) &
   [server code](https://github.com/Laybium/laybium_server).
-- [Apple App Store link](https://appsto.re/us/zQZYfb.i). App is no longer maintained because another startup received $10 million in funding for the same idea & I don't want to pay AWS fees.
+- [Apple App Store link](https://appsto.re/us/zQZYfb.i). App is no longer maintained because I don't want to pay AWS fees.
 
 <b>[Technical Drawings](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
 
