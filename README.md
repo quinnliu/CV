@@ -16,7 +16,7 @@ quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
 - Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
-- Last semester GPA dropped to <3.0 to pursue startup idea that failed
+- Last semester GPA dropped < 3.0 to pursue startup idea that eventually failed
 
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
 - Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
