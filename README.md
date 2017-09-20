@@ -13,7 +13,7 @@ One of my life philosophies is I try to live every 12 hours as my last to priori
 
 Another life philosophy I've recently adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are J, S, Grandma & pa, H & J, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Brian O'Kelley, Neil Gaiman, Jim Carry, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
-quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Twitter](https://twitter.com/qn1over12) | [Art on Instagram](https://www.instagram.com/letterqliu/)
+quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/)
 
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
