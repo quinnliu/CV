@@ -58,7 +58,7 @@ intelligence faster than code based intelligence.
   [server code](https://github.com/Laybium/laybium_server).
 - [Apple App Store link](https://appsto.re/us/zQZYfb.i). App is no longer maintained because I don't want to pay AWS fees.
 
-<b>[Technical Drawings](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
+<b>[Technical Drawings](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
 
 ## JOB EXPERIENCE
 <b>Part Time at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
