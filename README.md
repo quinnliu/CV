@@ -9,7 +9,7 @@ I want to solve the hardest problems at your startup using 100+ mental models.
 Currently looking for a full time leader/product/full stack or iOS role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
 
 ## LIFE PHILOSOPHY
-One of my life philosophies is I try to live every 12 hours as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 24 hours as my last. If that ends up being too hard I go back to 1 week, then 1 month, then 6 months, etc.
+One of my life philosophies is I try to live every 60 minutes as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 12 hours as my last. If that ends up being too hard I go back to 1 day, 1 week, 1 month, 6 months, etc.
 
 Another life philosophy I've recently adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are J, S, Grandma & pa, H & J, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
@@ -91,6 +91,9 @@ intelligence faster than code based intelligence.
 <b>Part time researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
 - Interdisciplinary research with neuroscientist Dr.Cate on models of spatial
   learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
+
+<b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
+- As unbelievable as this sounds I was caught pretending to go to the Dean of Engineering's class because I found the lectures boring & wanted to code AGI instead. To learn from my mistake I was asked to do 75 hrs. of dishwashing. From this experience I learned many lessons on how to overcome difficult problems.
 
 <b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
 - Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
