@@ -93,7 +93,7 @@ intelligence faster than code based intelligence.
   learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
 <b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
-- As unbelievable as this sounds I was caught pretending to go to the Dean of Engineering's class because I found the lectures boring & wanted to code AGI instead. To learn from my mistake I was asked to do 75 hrs. of dishwashing. From this experience I learned many lessons on how to overcome difficult problems.
+- As unbelievable as this sounds I was caught pretending to go to the Dean of Engineering's class because I wanted to code AGI instead. To learn from my mistake I was asked to do 75 hrs. of dishwashing. From this experience I learned many lessons on how to overcome difficult problems.
 
 <b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
 - Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
