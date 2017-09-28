@@ -1,4 +1,4 @@
-## Q Liu
+## Q40 Liu
 
 <b>TLDR</b>:  
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
