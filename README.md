@@ -4,7 +4,7 @@
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
 
 ## JOB INTEREST
-I want to solve the hardest problems at your startup using 101 mental models. 
+I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger & Warren Buffett).
 
 Currently looking for a full time leader/product/full stack or iOS role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
 
