@@ -9,7 +9,7 @@ I want to solve the hardest problems at your startup using 101 mental models.
 Currently looking for a full time leader/product/full stack or iOS role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
 
 ## LIFE PHILOSOPHY
-One of my life philosophies is I try to live every 60 minutes as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 12 hours as my last. If that ends up being too hard I go back to 1 day, 1 week, 1 month, 6 months, etc.
+One of my life philosophies is I try to live every 180 mins. as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 12 hours as my last. If that ends up being too hard I go back to 1 day, 1 week, 1 month, 6 months, etc.
 
 Another life philosophy I've recently adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are J, S, Grandma & pa, H & J, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
