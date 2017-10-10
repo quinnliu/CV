@@ -24,7 +24,10 @@ quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.
 - Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
 
 ## FUN TECHNICAL PROJECTS
-<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
+<b>[Q Notes](https://github.com/quinnliu/q_notes) | Aug 2017 - Present</b>
+- Listening/reading to 2 books a day tracker & blog on people, ideas, & things I'm learning
+
+<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 - <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 & now I'm learning how to increase human intelligence faster than code based intelligence.
 
 - In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on
@@ -33,9 +36,6 @@ an OO Java implementation of [Numenta's cortial learning algorithm(CLA) v2](http
 & read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized I was completely wrong
 about building AGI to help humanity in the first place. Now the goal is to research how to increase human
 intelligence faster than code based intelligence.
-
-<b>[Q Notes](https://github.com/quinnliu/q_notes) | Aug 2017 - Present</b>
-- Listening to 1-2 audiobooks a day tracker & blog on people, ideas, & things I'm learning
 
 <b>College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2017</b>  
