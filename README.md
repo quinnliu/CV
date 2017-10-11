@@ -8,11 +8,6 @@ I want to solve the hardest problems at your startup using 101 mental models (in
 
 Currently looking for a full time leader/product/full stack or iOS role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
 
-## LIFE PHILOSOPHY
-One of my life philosophies is I try to live every 180 mins. as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 12 hours as my last. If that ends up being too hard I go back to 1 day, 1 week, 1 month, 6 months, etc.
-
-Another life philosophy I adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are J, S, Grandma & pa, H & J, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
-
 quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/)
 
 ## FORMAL EDUCATION
@@ -128,3 +123,8 @@ intelligence faster than code based intelligence.
   + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
   + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
 - Finished Jersey City Triathlon 2016 with single gear bike 
+
+## LIFE PHILOSOPHY
+One of my life philosophies is I try to live every 180 mins. as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 12 hours as my last. If that ends up being too hard I go back to 1 day, 1 week, 1 month, 6 months, etc.
+
+Another life philosophy I adopted from Chris Wiggins is people > ideas > things. Some of the people that live in my subconscious are J, S, Grandma & pa, H & J, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
