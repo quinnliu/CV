@@ -19,7 +19,7 @@ quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.
 - Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
 
 ## FUN TECHNICAL PROJECTS
-<b>[Smith_Hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
+<b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 - Blog on people, ideas, & things I'm learning
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
