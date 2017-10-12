@@ -8,7 +8,7 @@ I want to solve the hardest problems at your startup using 101 mental models (in
 
 Currently looking for a full time leader/product/full stack or iOS role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
 
-quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [Pet frog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
+qn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [Pet frog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
 
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
