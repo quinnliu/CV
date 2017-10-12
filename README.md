@@ -19,8 +19,8 @@ quinnliu@vt.edu | [Github](https://github.com/quinnliu) | [YouTube](https://www.
 - Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
 
 ## FUN TECHNICAL PROJECTS
-<b>[Q Notes](https://github.com/quinnliu/q_notes) | Aug 2017 - Present</b>
-- Listening/reading to 2 books a day tracker & blog on people, ideas, & things I'm learning
+<b>[Smith_Hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
+- Blog on people, ideas, & things I'm learning
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 - <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 & now I'm learning how to increase human intelligence faster than code based intelligence.
