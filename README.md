@@ -9,7 +9,7 @@ One of my life philosophies is I try to live every 180 mins. as my last to prior
 Another life philosophy I adopted from Chris Wiggins is people > ideas > things. This means I have the weaknesses & strengths of many people that live in my subconscious including mom, dad, grandma & pa, brother & sister, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
 ## JOB INTEREST
-I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger & Warren Buffett).
+I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
 
 Currently looking for a full time leader/product/full stack or iOS role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
 
@@ -17,7 +17,7 @@ qn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://
 
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
-- Blog on people, ideas, & things I'm learning
+- I'm learning things < ideas < people related to time travel
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 - <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 & now I'm learning how to increase human intelligence faster than code based intelligence.
@@ -53,9 +53,9 @@ intelligence faster than code based intelligence.
 <b>[Technical Drawings](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
 
 ## JOB EXPERIENCE
-<b>Part Time at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
+<b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
-<b>After AppNexus projects finished left to work on startup ideas full time & travel | Sept. 2016 - Aug. 2017</b>
+<b>After AppNexus projects finished left to work on startup ideas full time, tutor remotely, & travel | Sept. 2016 - Aug. 2017</b>
 - Private coding mentor for 4 students teaching D3.js, Redux, React, Javascript, & Python 
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
 
