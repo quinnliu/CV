@@ -19,7 +19,7 @@ qn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 - I'm learning things < ideas < people related to time travel
 
-<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
+<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 - <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 & now I'm learning how to increase human intelligence faster than code based intelligence.
 
 - In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on
