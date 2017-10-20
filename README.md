@@ -11,7 +11,7 @@ Another life philosophy I adopted from Chris Wiggins is people > ideas > things.
 ## JOB INTEREST
 I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
 
-Currently looking for a full time leadership role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better). 
+Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or okay with full-time remote work. 
 
 qn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [Pet frog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
 
