@@ -4,20 +4,20 @@
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
 
 ## LIFE PHILOSOPHY
-One of my life philosophies is I try to live every 180 mins. as my last to prioritize what I should do in the present. Sometimes it is too hard for me so I go back to living every 12 hours as my last. If that ends up being too hard I go back to 1 day, 1 week, 1 month, 6 months, etc.
+One of my life philosophies is I try to live every 60 mins. as my last to prioritize what I should do in the present. If that ends up being too hard I go back to 3 hrs., 12 hrs., 1 day, 1 week, 1 month, 6 months, etc.
 
 Another life philosophy I adopted from Chris Wiggins is people > ideas > things. This means I have the weaknesses & strengths of many people that live in my subconscious including mom, dad, grandma & pa, brother & sister, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
 ## WORK INTEREST
 I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
 
-Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or okay with full-time remote work. 
+Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or full-time remote work. 
 
-qn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [Pet frog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
+emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [Pet frog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
 
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
-- I'm learning things < ideas < people related to time travel
+- I'm learning things < ideas < people related to universe travel
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 - <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 & now I'm learning how to increase human intelligence faster than code based intelligence.
