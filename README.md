@@ -1,4 +1,4 @@
-## Q Liu
+## Q41 Liu
 
 <b>TLDR</b>:  
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
@@ -8,7 +8,7 @@ One of my life philosophies is I try to live every 180 mins. as my last to prior
 
 Another life philosophy I adopted from Chris Wiggins is people > ideas > things. This means I have the weaknesses & strengths of many people that live in my subconscious including mom, dad, grandma & pa, brother & sister, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
-## JOB INTEREST
+## WORK INTEREST
 I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
 
 Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or okay with full-time remote work. 
