@@ -20,23 +20,9 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 - I'm learning things < ideas < people related to universe travel
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
-- <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 & now I'm learning how to increase human intelligence faster than code based intelligence.
-
-- In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on
-artificial general intelligence(AGI) & I became obsessed with building AGI to help humanity. I taught myself how to code & built
-an OO Java implementation of [Numenta's cortial learning algorithm(CLA) v2](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the CLA v2 I began to think there must be a better approach to building AGI. I found a better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) & the project changed into an [OO Python implementation of his PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches to AGI I came across [Elon Musk's perspective on AGI](https://youtu.be/h0962biiZa4)
-& read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized I was completely wrong
-about building AGI to help humanity in the first place. Now the goal is to research how to increase human
-intelligence faster than code based intelligence.
 
 <b>College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2017</b>  
-- Accumulated 6,157,009+ minutes(11+ years) watched by editing [250+ videos](https://www.youtube.com/user/quinnliuvideos/playlists) leading to an uncountable # of passed exams.
-- Topics include data structures, algorithms, Java, C, Linux, [21 videos on MIPS Assembly Architecture/Datapath](https://www.youtube.com/playlist?list=PLPXsMt57rLthe1kihStAdRgGdj3IZ7WHe),
-  differential equations, discrete math, combinatorics, statistics, computer
-  systems, comparative languages, & more...
-- Includes a unique [18 videos](https://www.youtube.com/playlist?list=PLPXsMt57rLtjF1SOj7QWc_XevhkSVn_fH) that help the right
-  people, immediately, in the future, & at the right time in the series *Q, watch this when...* using Premiere Pro
 
 <b>Machine Learning, Computational Neuroscience, & Robotics | 2013, 2017</b>    
 - Coded neural networks, linear, & logistic regression in Matlab at [quinnliu/MachineLearning](https://github.com/quinnliu/MachineLearning) for prediction & MNIST digit recognition.
