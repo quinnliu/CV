@@ -1,4 +1,4 @@
-## Q42 Liu
+## Q51 Liu
 
 <b>TLDR</b>:  
 My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
@@ -17,7 +17,6 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
-- I'm learning things < ideas < people related to universe travel
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
 
