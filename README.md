@@ -1,21 +1,21 @@
 ## Q51 Liu
 
 <b>TLDR</b>:  
-My competencies are in [drawing](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics.
+My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut). Learning about relationships to help people better & physics to work towards backwards time travel.
 
-## LIFE PHILOSOPHY
+## LIFE PHILOSOPHY (Q42)
 One of my life philosophies is I try to live every 60 mins. as my last to prioritize what I should do in the present. If that ends up being too hard I go back to 3 hrs., 12 hrs., 1 day, 1 week, 1 month, 6 months, etc.
 
 Another life philosophy I adopted from Chris Wiggins is people > ideas > things. This means I have the weaknesses & strengths of many people that live in my subconscious including mom, dad, grandma & pa, brother & sister, Harry Potter, Leonardo da Vinci, M.C. Escher, Charles Darwin, Hunter Smith, Myron Barnstone, Jeff Hawkins, Uzimaki Naruto, Steve Jobs, Sal Khan, Casey Neistat, Maggie Q, Kong & Jesse, Dileep George, Scott Brown, Owen Cook, Richard Castle, Brian O'Kelley, Neil Gaiman, Jim Carry, Vyk, Victor Frankl, Benjamin Franklin, Simon Sinek, Bryan Johnson, Elon Musk, Einstein, Peter Thiel, Tim Urban, Ray Dalio, Shane Parrish, Charlie Munger, Jessica Chastain, Bill Gates, Warren Buffett, Robert Downey Jr., Richard Feynman, & Patrick Jane.
 
-## WORK INTEREST
+## WORK INTEREST (Q42)
 I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
 
 Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or full-time remote work. Open to other ideas you think I would be a good fit for :) 
 
 emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [Pet frog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
 
-## FUN TECHNICAL PROJECTS
+## FUN TECHNICAL PROJECTS (Q42)
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
@@ -37,7 +37,7 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 
 <b>[Technical Drawings](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
 
-## JOB EXPERIENCE
+## JOB EXPERIENCE (Q42)
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
 <b>After AppNexus projects finished left to work on startup ideas full time, tutor remotely, & travel | Sept. 2016 - Aug. 2017</b>
@@ -78,7 +78,7 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
   system to produce
   [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md)
 
-## COMMUNITIES
+## COMMUNITIES (Q42)
 <b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
 - I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
 
@@ -90,7 +90,7 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
   arts. Started the club with 2 friends also passionate about visual arts.
 - Members with competence in other areas were also given the opportunity to present.
 
-## SMALLER FUN TECHNICAL PROJECTS
+## SMALLER FUN TECHNICAL PROJECTS (Q42)
 - `*` = code is a school project & therefore not shown
 - Git
   + cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
@@ -106,7 +106,7 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
   + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
 - Finished Jersey City Triathlon 2016 with single gear bike 
 
-## FORMAL EDUCATION
+## FORMAL EDUCATION (Q42)
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
 - Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
 - Last semester GPA dropped < 3.0 to pursue startup idea that eventually failed
