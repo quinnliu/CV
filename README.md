@@ -1,4 +1,4 @@
-## Q51 Liu
+## Q55 Liu
 
 <b>TLDR</b>:  
 My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut). Learning about relationships to help people better & physics to work towards backwards time travel.
