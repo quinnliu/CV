@@ -18,7 +18,7 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 ## FUN TECHNICAL PROJECTS (Q42)
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 
-<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
+<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Oct. 2017</b>
 
 <b>College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2017</b>  
