@@ -1,7 +1,7 @@
 ## Q64
 
 <b>TLDR</b>:  
-My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut). Learning about relationships to help people better & physics to work towards backwards time travel.
+My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut).
 
 ## LIFE PHILOSOPHY
 One of my life philosophies is I try to live every 60 mins. as my last to prioritize what I should do in the present. If that ends up being too hard I go back to 3 hrs., 12 hrs., 1 day, 1 week, 1 month, 6 months, etc. 
@@ -13,12 +13,12 @@ I want to solve the hardest problems at your startup using 101 mental models (in
 
 Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or full-time remote work. Open to other ideas you think I would be a good fit for :) 
 
-emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [jthefrog's book reviews on Instagram](https://www.instagram.com/jthefrog/)
+emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/)
 
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 
-<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - Present</b>
+<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 
 <b>College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2017</b>  
@@ -36,6 +36,10 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 - [Apple App Store link](https://appsto.re/us/zQZYfb.i). App is no longer maintained because I don't want to pay AWS fees.
 
 <b>[Technical Drawings](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) | 2009 - 2012</b>
+
+## SELF EDUCATION
+<b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
+- Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
 
 ## JOB EXPERIENCE
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
@@ -110,6 +114,3 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
 - Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
 - Last semester GPA dropped < 3.0 to pursue startup idea
-
-<b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
-- Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
