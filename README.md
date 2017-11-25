@@ -1,7 +1,7 @@
 ## Q64
 
 <b>TLDR</b>:  
-My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut).
+My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut). Learning about relationships & physics. 
 
 ## LIFE PHILOSOPHY
 One of my life philosophies is I try to live every 60 mins. as my last to prioritize what I should do in the present. If that ends up being too hard I go back to 3 hrs., 12 hrs., 1 day, 1 week, 1 month, 6 months, etc. 
