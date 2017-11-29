@@ -13,7 +13,7 @@ I want to solve the hardest problems at your startup using 101 mental models (in
 
 Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or full-time remote work. Open to other ideas you think I would be a good fit for :) 
 
-emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Art on Instagram](https://www.instagram.com/letterqliu/) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/)
+emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/) | [Art on Instagram](https://www.instagram.com/letterqliu/)
 
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
