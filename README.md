@@ -1,14 +1,7 @@
 ## Q64
 
-<b>TLDR</b>:  
-My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut).
-
-## WORK INTEREST
-I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
-
-Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or full-time remote work. Open to other ideas you think I would be a good fit for :) 
-
 emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/)
+
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 
@@ -39,8 +32,8 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 
 <b>After AppNexus projects finished left to work on startup ideas full time, tutor remotely, & travel | Sept. 2016 - Aug. 2017</b>
-- Private coding mentor for 4 students teaching D3.js, Redux, React, Javascript, & Python 
-- Lived in Berlin, Prague, Copenhagen, Virginia, & Texas
+- Private coding mentor for 4 students teaching D3.js, Redux, React, Javascript, & Python.
+- Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
 - From provided UI sketches co-developed with a senior software engineer 7 screens that used a
@@ -77,9 +70,6 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
   [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md)
 
 ## COMMUNITIES
-<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
-- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
-
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
 - Lived together with 25 other developers in the program & had a lecture series with founders of top NYC based tech companies including Joel Spolsky (Trello & stackoverflow), Jonah Peretti(HuffPo & Buzzfeed), Fred Wilson(USV), Zach Sims(codecademy), Ryan Bubinski(codecademy), etc. to learn the ins & outs of starting & leading a startup.
 
@@ -87,6 +77,9 @@ emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https:/
 - Taught 20+ members through 2 hour/week workshops about the classical visual
   arts. Started the club with 2 friends also passionate about visual arts.
 - Members with competence in other areas were also given the opportunity to present.
+
+<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
+- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
 
 ## SMALLER FUN TECHNICAL PROJECTS
 - `*` = code is a school project & therefore not shown
