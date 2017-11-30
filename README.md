@@ -1,20 +1,14 @@
 ## Q64
 
 <b>TLDR</b>:  
-My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut). Learning about relationships, supervised/unsupervised learning, & physics. 
-
-## LIFE PHILOSOPHY
-One of my life philosophies is I try to live every 60 mins. as my last to prioritize what I should do in the present. If that ends up being too hard I go back to 3 hrs., 12 hrs., 1 day, 1 week, 1 month, 6 months, etc. 
-
-Another life philosophy I adopted from Chris Wiggins is people > ideas > things. This means I have the weaknesses & strengths of many people that live in my subconscious including family, Harry Potter, Da Vinci, Darwin, Naruto, Steve Jobs, Casey Neistat, Maggie Q, Kong, Dileep George, Owen Cook & Derek, Richard Castle, Victor Frankl, Elon Musk, Einstein, Peter Thiel, Shane Parrish, Charlie Munger, Warren Buffett, Richard Feynman, & Patrick Jane. 
+My competencies are in [drawing for curiosity](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) & [coding AGI for trying to solve all hard problems](https://github.com/WalnutiQ/wAlnut).
 
 ## WORK INTEREST
 I want to solve the hardest problems at your startup using 101 mental models (inspired by Charlie Munger).
 
 Currently looking for a full time leadership or full stack role at a startup that either involves large scale BMI, ANI, or miniature hardware(the smaller the better) based in NYC or full-time remote work. Open to other ideas you think I would be a good fit for :) 
 
-emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/) | [Art on Instagram](https://www.instagram.com/letterqliu/)
-
+emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/)
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
 
