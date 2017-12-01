@@ -1,6 +1,6 @@
 ## Q64
 
-emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [jthefrog's book reviews](https://www.instagram.com/jthefrog/)
+emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos)
 
 ## FUN TECHNICAL PROJECTS
 <b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
