@@ -1,6 +1,6 @@
 ## Q64 Liu
 
-emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [stackoverflow](https://stackoverflow.com/users/1495015/q-liu?tab=profile)
+emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Stackoverflow](https://stackoverflow.com/users/1495015/q-liu?tab=profile)
 
 ## FUN TECHNICAL PROJECTS
 <b>[infinitytwozero.com](www.infinitytwozero.com) | Aug 2017 - Present</b>
