@@ -1,9 +1,9 @@
-## Q64
+## Q64 Liu
 
 emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos)
 
 ## FUN TECHNICAL PROJECTS
-<b>[smith_hunter](https://github.com/quinnliu/smith_hunter) | Aug 2017 - Present</b>
+<b>[infinitytwozero.com](www.infinitytwozero.com) | Aug 2017 - Present</b>
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 
