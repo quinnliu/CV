@@ -3,7 +3,7 @@
 emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Stackoverflow](https://stackoverflow.com/users/1495015/q-liu?tab=profile)
 
 ## FUN TECHNICAL PROJECTS
-<b>[infinitytwozero.com](www.infinitytwozero.com) | Aug 2017 - Present</b>
+<b>[infinitytwozero.com](https://github.com/quinnliu/infinitytwozero) | Aug 2017 - Present</b>
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 
