@@ -1,9 +1,9 @@
 ## Q64 Liu
 
-emn1over12@gmail.com | [Github](https://github.com/quinnliu) | [YouTube](https://www.youtube.com/user/quinnliuvideos) | [Stackoverflow](https://stackoverflow.com/users/1495015/q-liu?tab=profile)
+emn1over12@gmail.com
 
 ## FUN TECHNICAL PROJECTS
-<b>[infinitytwozero.com](https://github.com/quinnliu/infinitytwozero) | Aug 2017 - Present</b>
+<b>[infinitytwozero](https://github.com/quinnliu/infinitytwozero) | Aug 2017 - Present</b>
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 
