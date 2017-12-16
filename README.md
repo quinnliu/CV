@@ -1,9 +1,12 @@
-## Q80 Liu
+## Q84 Liu
 
 emn1over12@gmail.com
 
+## Job Interest
+Looking for a full-time full stack developer position using Python, ANI, ML, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
+
 ## FUN TECHNICAL PROJECTS
-<b>[infinitytwozero](https://github.com/quinnliu/infinitytwozero) | Aug 2017 - Present</b>
+<b>[infinity2o.com]http://infinity2o.com) | Aug 2017 - Present</b>
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 
@@ -30,8 +33,9 @@ emn1over12@gmail.com
 
 ## JOB EXPERIENCE
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
+- help with accounting using quickbooks & with hackNY applications reviewing
 
-<b>After AppNexus projects finished left to work on startup ideas full time, tutor remotely, & travel | Sept. 2016 - Aug. 2017</b>
+<b>After AppNexus projects finished left to work as remote coding tutor & travel | Sept. 2016 - Aug. 2017</b>
 - Private coding mentor for 4 students teaching D3.js, Redux, React, Javascript, & Python.
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
 
@@ -68,6 +72,11 @@ emn1over12@gmail.com
   design, & oil painting techniques including gold section & fletcher color
   system to produce
   [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md)
+  
+## FORMAL EDUCATION
+<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
+- Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
+- Last semester GPA dropped < 3.0 to pursue startup idea
 
 ## COMMUNITIES
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
@@ -82,22 +91,16 @@ emn1over12@gmail.com
 - I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
 
 ## SMALLER FUN TECHNICAL PROJECTS
-- `*` = code is a school project & therefore not shown
+- `*` = code is a school project & therefore not shown but happy to share if requested
 - Git
   + cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
 - Java
   + Android maze solver app & minesweeper app
-  + [Earthquake watcher service](https://github.com/quinnliu/EarthquakeWatcherService)
-    using public earthquake API
-  + [Memory manager](https://github.com/quinnliu/MemoryManager) & [Buffer pool](https://github.com/quinnliu/BufferPool)
+  + Earthquake watcher service* using public earthquake API
+  + Memory manager* & Buffer pool*
 - C
   + [Buffer Bomb](https://github.com/quinnliu/bufferBomb), MIPS assembler*, Extendable shell*, Thread pool*, Malloc*
 - Web development
-  + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
-  + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
+  + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku product kickstarter*
+  + Google App Engine* python
 - Finished Jersey City Triathlon 2016 with single gear bike 
-
-## FORMAL EDUCATION
-<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
-- Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
-- Last semester GPA dropped < 3.0 to pursue startup idea
