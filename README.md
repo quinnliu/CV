@@ -2,11 +2,13 @@
 
 emn1over12@gmail.com
 
-## Job Interest
-Looking for a full-time full stack developer position using Python, ANI, ML, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
+## Job Interes
+Looking for a full-time full stack developer position using Python, artificial narrow intilligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
 
 ## FUN TECHNICAL PROJECTS
-<b>[infinity2o.com]http://infinity2o.com) | Aug 2017 - Present</b>
+<b>[infinity2o.com](http://infinity2o.com) | Aug 2017 - Present</b>
+- My book of wisdom that requires users to create an account & solve cryptography problems(in Python with a range of difficulty) in order to read. 
+- Built using AWS, Docker, Node.js Loopback RESTful API, & Redux/React.js.
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
 
@@ -29,19 +31,19 @@ Looking for a full-time full stack developer position using Python, ANI, ML, ima
 
 ## SELF EDUCATION
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
-- Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
+- Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
 
 ## JOB EXPERIENCE
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
-- help with accounting using quickbooks & with hackNY applications reviewing
+- Help with accounting using quickbooks & review of hackNY applications.
 
 <b>After AppNexus projects finished left to work as remote coding tutor & travel | Sept. 2016 - Aug. 2017</b>
-- Private coding mentor for 4 students teaching D3.js, Redux, React, Javascript, & Python.
+- Private coding mentor for 4 students teaching D3.js, Redux/React.js, & Python.
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
 - From provided UI sketches co-developed with a senior software engineer 7 screens that used a
-  <b>RESTful API</b>, Redux, & React.js to allow contracts with clients to be created, edited, cloned, & deleted.
+  <b>RESTful API</b>, Redux/React.js to allow contracts with clients to be created, edited, cloned, & deleted.
 - Planned out & delivered a 1 month project to create new reports using <b>RESTful APIs</b> & a
   <b>PHP UI codebase</b>.
 
@@ -62,7 +64,7 @@ Looking for a full-time full stack developer position using Python, ANI, ML, ima
 
 <b>Part time researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
 - Interdisciplinary research with neuroscientist Dr.Cate on models of spatial
-  learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
+  learning in visual pathway of human brain with [Poster](./portfolio/Scieneering_Poster_(5MB).jpg).
 
 <b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
 - As unbelievable as this sounds I was caught pretending to go to the Dean of Engineering's class because I wanted to code AGI instead. To learn from my mistake I was asked to do 75 hrs. of dishwashing. From this experience I learned many lessons on how to overcome difficult problems.
@@ -71,7 +73,7 @@ Looking for a full-time full stack developer position using Python, ANI, ML, ima
 - Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
   design, & oil painting techniques including gold section & fletcher color
   system to produce
-  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md)
+  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
   
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
