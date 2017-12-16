@@ -2,8 +2,8 @@
 
 emn1over12@gmail.com
 
-## Job Interes
-Looking for a full-time full stack developer position using Python, artificial narrow intilligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
+## Job Interests
+Looking for a full-time full stack developer position using Python, artificial narrow intelligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
 
 ## FUN TECHNICAL PROJECTS
 <b>[infinity2o.com](http://infinity2o.com) | Aug 2017 - Present</b>
