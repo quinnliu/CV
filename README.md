@@ -33,6 +33,12 @@ Looking for a full-time full stack developer position using Python, artificial n
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
 - Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
 
+<b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
+- Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
+  design, & oil painting techniques including gold section & fletcher color
+  system to produce
+  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
+
 ## JOB EXPERIENCE
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
 - Help with accounting using quickbooks & review of hackNY applications.
@@ -68,12 +74,6 @@ Looking for a full-time full stack developer position using Python, artificial n
 
 <b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
 - As unbelievable as this sounds I was caught pretending to go to the Dean of Engineering's class because I wanted to code AGI instead. To learn from my mistake I was asked to do 75 hrs. of dishwashing. From this experience I learned many lessons on how to overcome difficult problems.
-
-<b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
-- Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
-  design, & oil painting techniques including gold section & fletcher color
-  system to produce
-  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
   
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
