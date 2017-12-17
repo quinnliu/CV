@@ -93,16 +93,16 @@ Looking for a full-time full stack developer position using Python, artificial n
 - I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
 
 ## SMALLER FUN TECHNICAL PROJECTS
-- `*` = code is a school project & therefore not shown but happy to share if requested
+- `*` = Code is a school project & therefore not shown but happy to share if requested.
 - Git
-  + cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
+  + Cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands).
 - Java
-  + Android maze solver app & minesweeper app
-  + Earthquake watcher service* using public earthquake API
-  + Memory manager* & Buffer pool*
+  + Android maze solver app & minesweeper app.
+  + Earthquake watcher service* using public earthquake API.
+  + Memory manager* & Buffer pool*.
 - C
-  + [Buffer Bomb](https://github.com/quinnliu/bufferBomb), MIPS assembler*, Extendable shell*, Thread pool*, Malloc*
+  + [Buffer Bomb](https://github.com/quinnliu/bufferBomb), MIPS assembler*, Extendable shell*, Thread pool*, & Malloc*.
 - Web development
-  + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku product kickstarter*
-  + Google App Engine* python
-- Finished Jersey City Triathlon 2016 with single gear bike 
+  + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku product kickstarter*.
+  + Google App Engine in Python*.
+- Finished Jersey City Triathlon 2016 with single gear bike.
