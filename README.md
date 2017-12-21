@@ -2,23 +2,23 @@
 
 emn1over12@gmail.com
 
-## Job Interests
+## Job Interest
 Looking for a full-time full stack developer position using Python, artificial narrow intelligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
 
 ## FUN TECHNICAL PROJECTS
-<b>[infinity2o.com](http://infinity2o.com) | Aug 2017 - Present</b>
+<b>[infinity2o.com](http://infinity2o.com)(Coming soon) | Dec. 2017 - Present</b>
 - My book of wisdom that requires users to create an account & solve cryptography problems(in Python with a range of difficulty) in order to read. 
 - Built using AWS, Docker, MySQL, Node.js Loopback RESTful API, & Redux/React.js.
 
-<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2017</b>
+<b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
 <b>College Level CS & Math education at
-[youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2017</b>  
+[youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>  
 
 <b>Machine Learning, Computational Neuroscience, & Robotics | 2013, 2017</b>    
 - Coded neural networks, linear, & logistic regression in Matlab at [quinnliu/MachineLearning](https://github.com/quinnliu/MachineLearning) for prediction & MNIST digit recognition.
 - Neuron modeling in Matlab at [quinnliu/ComputationalNeuroscience](https://github.com/quinnliu/ComputationalNeuroscience).
-- Simulated [7 DOF forward kinematics robotic arm](https://github.com/Hunter690/catkin_ws) in ROSS & Python to learn precision movement to end effector.
+- Simulated [7 DOF forward kinematics robotic arm](https://github.com/Hunter690/catkin_ws) in ROS & Python to learn precision movement to end effector.
 
 <b>iOS app to allow anyone to listen to music at the exact same time as someone else | Early 2017</b>
 - [Video demo](https://www.youtube.com/watch?v=WXTufUtmZYg) of full stack iOS app using React Native, Redux, Node.js,
@@ -44,7 +44,7 @@ Looking for a full-time full stack developer position using Python, artificial n
 - Help with accounting using quickbooks & review of hackNY applications.
 
 <b>After AppNexus projects finished left to work as remote coding tutor & travel | Sept. 2016 - Aug. 2017</b>
-- Private coding mentor for 4 students teaching D3.js, Redux/React.js, & Python.
+- Private coding tutor teaching D3.js, Redux/React.js, & Python.
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
