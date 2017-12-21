@@ -7,7 +7,6 @@ Looking for a full-time full stack developer position using Python, artificial n
 
 ## FUN TECHNICAL PROJECTS
 <b>[infinity2o.com](http://infinity2o.com)(Coming soon) | Dec. 2017 - Present</b>
-- My book of wisdom that requires users to create an account & solve cryptography problems(in Python with a range of difficulty) in order to read. 
 - Built using AWS, Docker, MySQL, Node.js Loopback RESTful API, & Redux/React.js.
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
