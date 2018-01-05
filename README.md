@@ -1,6 +1,6 @@
 ## Q84 Liu
 
-emn1over12@gmail.com
+emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## Job Interest
 Looking for a full-time remote full stack developer position using Python, artificial narrow intelligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
