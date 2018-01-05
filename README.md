@@ -72,7 +72,6 @@ Looking for a full-time remote full stack developer position using Python, artif
   learning in visual pathway of human brain with [Poster](./portfolio/Scieneering_Poster_(5MB).jpg).
 
 <b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
-- As unbelievable as this sounds I was caught pretending to go to the Dean of Engineering's class because I wanted to code AGI instead. To learn from my mistake I was asked to do 75 hrs. of dishwashing. From this experience I learned many lessons on how to overcome difficult problems.
   
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
@@ -89,7 +88,6 @@ Looking for a full-time remote full stack developer position using Python, artif
 - Members with competence in other areas were also given the opportunity to present.
 
 <b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
-- I think the Recurse Center is amazing for someone who wants to explore a field of CS but it's not good if you know exactly what you want to do. While at the Recurse Center I became very ignorant and began to think I knew exactly what I wanted to do mid semester. Because of this I lied about why I left the Recurse Center and I'm sorry to everyone I hurt by ghosting my class. This was the biggest lie I have intentionally told and now I'm focused on context aware radical honesty. 
 
 ## SMALLER FUN TECHNICAL PROJECTS
 - `*` = Code is a school project & therefore not shown but happy to share if requested.
