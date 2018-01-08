@@ -1,4 +1,4 @@
-## Q88 Liu
+## Q Liu
 
 emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
@@ -8,7 +8,7 @@ Looking for a full-time remote full stack developer position using Python, artif
 ## FUN TECHNICAL PROJECTS
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
-<b>College Level CS & Math education at
+<b>350+ videos on College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>  
 
 <b>Machine Learning, Computational Neuroscience, & Robotics | 2013, 2017</b>    
@@ -27,13 +27,18 @@ Looking for a full-time remote full stack developer position using Python, artif
 
 ## SELF EDUCATION
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
-- Courses at [coursera.org(3), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
+- Courses at [coursera.org(4), edx.org(1), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
 
 <b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
 - Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
   design, & oil painting techniques including gold section & fletcher color
   system to produce
   [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
+  
+## FORMAL EDUCATION
+<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
+- Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
+- Last semester GPA dropped < 3.0 to pursue startup idea
 
 ## JOB EXPERIENCE
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
@@ -69,11 +74,6 @@ Looking for a full-time remote full stack developer position using Python, artif
   learning in visual pathway of human brain with [Poster](./portfolio/Scieneering_Poster_(5MB).jpg).
 
 <b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
-  
-## FORMAL EDUCATION
-<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
-- Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
-- Last semester GPA dropped < 3.0 to pursue startup idea
 
 ## COMMUNITIES
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
