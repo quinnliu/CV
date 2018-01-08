@@ -45,9 +45,10 @@
 #### [Coursera](www.coursera.org)
 | Computer Science                                                            |
 |-----------------------------------------------------------------------------|
-| Startup Engineering from Stanford (certificate)                        |
+| Startup Engineering from Stanford                                           |
 | Machine Learning by Andrew Ng from Stanford [code here](https://github.com/quinnliu/machineLearning) |
-| Computational Neuroscience from University of Washington (certificate) |
+| Computational Neuroscience from University of Washington                    |
+| Neural Networks and Deep Learning by Andrew Ng from [coursera.org](https://www.coursera.org/specializations/deep-learning) |
 
 #### [edX](www.edx.org)
 | Computer Science                                                            |
