@@ -6,6 +6,9 @@ emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 Looking for a full-time remote full stack developer position using Python, artificial narrow intelligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
 
 ## FUN TECHNICAL PROJECTS
+<b>[infinity2o.com](http://aws-docker-cluster-alb-1318020302.us-east-1.elb.amazonaws.com/login)</b> | Dec. 2017 - Present
+- Built using AWS, Docker, MySQL, Node.js Loopback RESTful API, & Redux/React.js.
+
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
 <b>350+ videos on College Level CS & Math education at
