@@ -41,7 +41,6 @@ Looking for a full-time remote full stack developer position using Python, artif
 ## FORMAL EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
 - Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
-- Last semester GPA dropped < 3.0 to pursue startup idea
 
 ## JOB EXPERIENCE
 <b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
