@@ -86,7 +86,7 @@ Looking for a full-time remote full stack developer position using Python, artif
   arts. Started the club with 2 friends also passionate about visual arts.
 - Members with competence in other areas were also given the opportunity to present.
 
-<b>[The Recurse Center](https://www.recurse.com/) dropout | Summer 2015</b>
+<b>[The Recurse Center](https://www.recurse.com/) | Summer 2015</b>
 
 ## SMALLER FUN TECHNICAL PROJECTS
 - `*` = Code is a school project & therefore not shown but happy to share if requested.
