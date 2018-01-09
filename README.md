@@ -1,6 +1,6 @@
 ## Q Liu
 
-emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
+q42liu@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## Job Interest
 Looking for a full-time remote full stack developer position using Python, artificial narrow intelligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
@@ -11,7 +11,7 @@ Looking for a full-time remote full stack developer position using Python, artif
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
-<b>350+ videos on College Level CS & Math education at
+<b>350+ total public & private videos on College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>  
 
 <b>Machine Learning, Computational Neuroscience, & Robotics | 2013, 2017</b>    
