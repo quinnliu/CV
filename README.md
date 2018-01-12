@@ -43,10 +43,7 @@ Looking for a full-time remote full stack developer position using Python, artif
 - Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
 
 ## JOB EXPERIENCE
-<b>Part Time Volunteer at [hackNY](http://hackny.org/a/) | Aug. 2017 - Present</b>
-- Help with accounting using quickbooks & review of hackNY applications.
-
-<b>After AppNexus projects finished left to work as remote coding tutor & travel | Sept. 2016 - Aug. 2017</b>
+<b>Remote coding tutor | Sept. 2016 - Present</b>
 - Private coding tutor teaching D3.js, Redux/React.js, & Python.
 - Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
 
@@ -80,6 +77,7 @@ Looking for a full-time remote full stack developer position using Python, artif
 ## COMMUNITIES
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
 - Lived together with 25 other developers in the program & had a lecture series with founders of top NYC based tech companies including Joel Spolsky (Trello & stackoverflow), Jonah Peretti(HuffPo & Buzzfeed), Fred Wilson(USV), Zach Sims(codecademy), Ryan Bubinski(codecademy), etc. to learn the ins & outs of starting & leading a startup.
+- Help with accounting using quickbooks & review of hackNY applications.
 
 <b>Co-founded Visual Art Club at Virginia Tech | 2011 – 2013</b>  
 - Taught 20+ members through 2 hour/week workshops about the classical visual
