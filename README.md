@@ -2,9 +2,6 @@
 
 q42liu@gmail.com | Latest CV at github.com/quinnliu/CV
 
-## Job Interest
-Looking for a full-time remote full stack developer position using Python, artificial narrow intelligence, machine learning, image processing, range of databases(MySQL, PostgreSQL, MongoDB, etc.) & message queues(RabbitMQ, etc.).
-
 ## FUN TECHNICAL PROJECTS
 <b>[infinity2o.com](http://infinity2o.com)</b> | Dec. 2017 - Present
 - Built using AWS, Docker, MySQL, Node.js Loopback RESTful API, & Redux/React.js.
