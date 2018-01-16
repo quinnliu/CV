@@ -4,16 +4,14 @@ q42liu@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
 <b>[infinity2o.com](http://infinity2o.com)</b> | Dec. 2017 - Present
-- Built using AWS, Docker, MySQL, Node.js Loopback RESTful API, & Redux/React.js.
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
 <b>350+ total public & private videos on College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>  
 
-<b>Machine Learning, Computational Neuroscience, & Robotics | 2013, 2017</b>    
+<b>Machine Learning & Robotics | 2013, 2017</b>    
 - Coded neural networks, linear, & logistic regression in Matlab at [quinnliu/MachineLearning](https://github.com/quinnliu/MachineLearning) for prediction & MNIST digit recognition.
-- Neuron modeling in Matlab at [quinnliu/ComputationalNeuroscience](https://github.com/quinnliu/ComputationalNeuroscience).
 - Simulated [7 DOF forward kinematics robotic arm](https://github.com/Hunter690/catkin_ws) in ROS & Python to learn precision movement to end effector.
 
 <b>iOS app to allow anyone to listen to music at the exact same time as someone else | Early 2017</b>
@@ -88,12 +86,15 @@ q42liu@gmail.com | Latest CV at github.com/quinnliu/CV
 - Git
   + Cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands).
 - Java
-  + Android maze solver app & minesweeper app.
+  + Android maze solver app* & minesweeper app*.
   + Earthquake watcher service* using public earthquake API.
   + Memory manager* & Buffer pool*.
 - C
   + [Buffer Bomb](https://github.com/quinnliu/bufferBomb), MIPS assembler*, Extendable shell*, Thread pool*, & Malloc*.
 - Web development
+  + AWS Compute Service, Docker, MySQL, Node.js Loopback RESTful API, & Redux/React.js*.
   + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku product kickstarter*.
   + Google App Engine in Python*.
+- Matlab
+  + Computational Neuroscience Neuron modeling in Matlab*.
 - Finished Jersey City Triathlon 2016 with single gear bike.
