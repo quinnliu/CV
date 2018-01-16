@@ -3,7 +3,7 @@
 q42liu@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
-<b>[infinity2o.com](http://infinity2o.com)</b> | Dec. 2017 - Present
+<b>[infinity2o.com](http://www.infinity2o.com)</b> | Dec. 2017 - Present
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
