@@ -1,6 +1,6 @@
 ## Q Liu
 
-q42liu@gmail.com | Latest CV at github.com/quinnliu/CV
+emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
 <b>[infinity2o.com](http://www.infinity2o.com)</b> | Dec. 2017 - Present
