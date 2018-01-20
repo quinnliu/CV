@@ -3,8 +3,6 @@
 emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
-<b>[infinity2o.com](http://www.infinity2o.com)</b>(coming soon) | Dec. 2017 - Present
-
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
 <b>350+ total public & private videos on College Level CS & Math education at
