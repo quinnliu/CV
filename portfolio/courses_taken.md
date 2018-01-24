@@ -60,6 +60,11 @@
 |-----------------------------------------------------------------------------|
 | Web Development with Reddit co-founder Steve Huffman                        |
 
+#### [Udemy](www.udemy.com)
+| Computer Science                                                            |
+|-----------------------------------------------------------------------------|
+| [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/) |              
+
 #### [Lynda](www.lynda.com)
 | Intro                              | Core                                 |
 |------------------------------------|--------------------------------------|
