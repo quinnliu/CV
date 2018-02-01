@@ -3,7 +3,7 @@
 emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
-<b>[Full stack email survey creator](rocky-wildwood-97943.herokuapp.com) | Jan. 2018</b> 
+<b>[Full stack email survey creator](https://rocky-wildwood-97943.herokuapp.com) | Jan. 2018</b> 
 - To allow users to send ~200,000 e-mail suveys per campaign used Google Oauth, MongoDB, Express, Heroku, Stripe API, & Sendgrid API.
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
