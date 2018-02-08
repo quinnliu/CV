@@ -1,18 +1,18 @@
 ## Q Liu
 
 ## SUMMARY 
-As a kid I spent most of my time drawing everything I was curious about to eventually create a [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md). My last big drawing was a brain which inspired me to research the brain by coding the first [open source AGI in 2011](https://github.com/WalnutiQ/wAlnut). I majored to CS in college but was unhappy with the cost of CS education so I created 100+ YouTube videos on college level Math & CS that have grossed 6.6 million+ minutes watched[3]. In college I finished 10+ online CS & Machine Learning courses & worked in vision & neuroscience labs at John Hopkins & Virginia Tech. During & after college I loved learning how to be a founder at hackNY & full stack engineer at AppNexus. Although I love NYC I wanted to travel the world so I left AppNexus to become a remote coding tutor and travel Europe. I believe in lifelong learning & wanted to solve the problem of expensive higher education so I founded www.infinity2o.com with my brother.
+As a kid I spent most of my time drawing everything I was curious about to eventually create a [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md). My last big drawing was a partial human brain which inspired me to research the human brain by coding the first [open source AGI in 2011](https://github.com/WalnutiQ/wAlnut). I majored in CS in college but was unhappy with the cost of higher CS education so I created [100+ non-clickbait YouTube videos on college level Math & CS that have grossed 6.6 million+ minutes watched](https://www.youtube.com/user/quinnliuvideos). In college I finished 10+ online CS & Machine Learning courses & worked in vision & neuroscience labs at John Hopkins & Virginia Tech. During & after college I loved learning how to be a founder at hackNY & full stack engineer at AppNexus. Although I <3 NYC I wanted to travel the world so I left AppNexus to become a remote coding tutor and travel Europe. I believe unexpensive quality higher education is still a unsolved problem so I founded www.infinity2o.com with my brother.
 
 emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
-<b>[Full stack email survey creator](https://rocky-wildwood-97943.herokuapp.com) | Jan. 2018</b>
+<b>[www.infinity2o.com](https://www.infinity2o.com) | Jan. 2018</b>
 
-* To allow users to send ~200,000 e-mail suveys per campaign used Google Oauth, MongoDB, Express, Heroku, Stripe API, & Sendgrid API.
+* Why: To help people find partners for their online classes. How: React.js/Redux, Google Oauth, MongoDB, Express, Heroku, Stripe API, & Sendgrid API.
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
-<b>350+ total public & private videos on College Level CS & Math education at
+<b>100+ public & 250+ private videos on College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>
 
 * 6.6 million+ minutes watched ~= 13 years
