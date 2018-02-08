@@ -1,9 +1,11 @@
 ## Q Liu
 
+## SUMMARY 
+As a kid I spent most of my time drawing everything I was curious about to eventually create a [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md). My last big drawing was a brain which inspired me to research the brain by coding the first [open source AGI in 2011](https://github.com/WalnutiQ/wAlnut). I majored to CS in college but was unhappy with the cost of CS education so I created 100+ YouTube videos on college level Math & CS that have grossed 6.6 million+ minutes watched[3]. In college I finished 10+ online CS & Machine Learning courses & worked in vision & neuroscience labs at John Hopkins & Virginia Tech. During & after college I loved learning how to be a founder at hackNY & full stack engineer at AppNexus. Although I love NYC I wanted to travel the world so I left AppNexus to become a remote coding tutor and travel Europe. I believe in lifelong learning & wanted to solve the problem of expensive higher education so I founded www.infinity2o.com with my brother.
+
 emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 ## FUN TECHNICAL PROJECTS
-
 <b>[Full stack email survey creator](https://rocky-wildwood-97943.herokuapp.com) | Jan. 2018</b>
 
 * To allow users to send ~200,000 e-mail suveys per campaign used Google Oauth, MongoDB, Express, Heroku, Stripe API, & Sendgrid API.
@@ -13,7 +15,7 @@ emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 <b>350+ total public & private videos on College Level CS & Math education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>
 
-* To study more efficiently taught the material simply.
+* 6.6 million+ minutes watched ~= 13 years
 
 <b>Machine Learning & Robotics | 2013, 2017</b>
 
