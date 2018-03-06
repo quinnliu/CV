@@ -12,15 +12,18 @@ emn1over12@gmail.com | Latest CV at github.com/quinnliu/CV
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
-<b>100+ public & 250+ private videos on College Level CS & Math education at
-[youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017</b>
+<b>100+ public & 250+ private videos on College Level Math, CS, & Computer Vision at
+[youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos) | 2013 - 2015, 2017, 2018</b>
 
-* 6.6 million+ minutes watched ~= 13 years
+* 6.6 million+ minutes watched ~= 13 years.
+* [MIPS Datapath playlist](http://bit.ly/2oNt4Ot).
+* [Computer Vision playlist](http://bit.ly/2FV3bnk).
 
-<b>Machine Learning & Robotics | 2013, 2017</b>
+<b>Machine Learning, Robotics, & Deep Learning | 2013, 2017</b>
 
 * For simple prediction & MNIST digit recognition coded neural networks, linear, & logistic regression in Matlab at [quinnliu/MachineLearning](https://github.com/quinnliu/MachineLearning).
 * To learn precision movement to end effector simulated [7 DOF forward kinematics robotic arm](https://github.com/Hunter690/catkin_ws) in ROS & Python.
+* For cat image classification used [deep neural networks](https://github.com/Hunter690/ANI) in Jupyter Notebook.
 
 <b>To allow anyone to listen to music at the exact same time as someone else built iOS app | Early 2017</b>
 
