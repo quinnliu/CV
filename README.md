@@ -8,7 +8,7 @@ q42liu@gmail.com
 ## FUN TECHNICAL PROJECTS
 <b>[www.infinity2o.com](https://www.infinity2o.com) | Jan. 2018</b>
 
-* Why: To help people find partners for their online classes. How: React.js/Redux, Google Oauth, MongoDB, Express, Heroku, Stripe API, & Sendgrid API.
+* Why: To help people find partners for their online classes. How: React.js/Redux, RabbitMQ, Google Oauth, MongoDB, Express, Heroku, Stripe API, & Sendgrid API.
 
 <b>[Open Source Artificial General Intelligence(AGI) Research](https://github.com/WalnutiQ/wAlnut) | 2011 - 2015, 2017</b>
 
