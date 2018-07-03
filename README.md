@@ -5,6 +5,62 @@ As a kid I spent most of my time drawing everything I was curious about to event
 
 q42liu@gmail.com
 
+## EDUCATION
+
+<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>
+
+* Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
+
+<b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
+
+* Courses at [coursera.org(4), edx.org(1), udacity.com(1), udemy.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
+
+<b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
+
+* Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
+  design, & oil painting techniques including gold section & fletcher color
+  system to produce
+  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
+
+## JOB EXPERIENCE
+
+<b>Coding tutor | Sept. 2016 - Present</b>
+
+* Private coding tutor teaching D3.js, Redux/React.js, & Python.
+* Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
+
+<b>Full Stack Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>
+
+* From provided UI sketches co-developed with a senior software engineer 7 screens that used a
+  <b>RESTful API</b>, Redux/React.js to allow contracts with clients to be created, edited, cloned, & deleted.
+* Planned out & delivered a 1 month project to create new reports using <b>RESTful APIs</b> & a
+  <b>PHP UI codebase</b>.
+
+<b>Backend Business systems developer at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
+
+* Synchronized data across an internally built web app called Console and
+  Salesforce.com using technologies including RabbitMQ, Storm, PostgreSQL,
+  Gradle, Spock, JIRA, & Groovy ready for production.
+
+<b>Java & Andriod Instructor for CS course Software Design & Data Structures at Virginia Tech | Spring 2014</b>
+
+* Taught 4 hour labs/week & held office hours on android development & Java.
+
+<b>iOS Developer at Vision Lab at John Hopkins University Clark Hall | Summer 2013</b>
+
+* Optimized code for random walk image segmentation for iOS app iMixPics.
+  [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) &
+  [Poster](./portfolio/Poster_iMixPics2.jpg)
+* Participated in a variety of biomedical research workshops through
+  [Computational Sensing & Robotics REU](http://lcsr.jhu.edu/reu/).
+
+<b>Java Developer at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>
+
+* Interdisciplinary research with neuroscientist Dr.Cate on models of spatial
+  learning in visual pathway of human brain with [Poster](<./portfolio/Scieneering_Poster_(5MB).jpg>).
+
+<b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
+
 ## FUN TECHNICAL PROJECTS
 <b>[www.infinity2o.com](https://www.infinity2o.com) | Jan. 2018</b>
 
@@ -36,64 +92,6 @@ q42liu@gmail.com
 <b>[Technical Drawings](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) | 2002 - 2012</b>
 
 * To explore my curiosity drew everything I wanted to better understand.
-
-## SELF EDUCATION
-
-<b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
-
-* Courses at [coursera.org(4), edx.org(1), udacity.com(1), udemy.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
-
-<b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
-
-* Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
-  design, & oil painting techniques including gold section & fletcher color
-  system to produce
-  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
-
-## FORMAL EDUCATION
-
-<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>
-
-* Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
-
-## JOB EXPERIENCE
-
-<b>Remote coding tutor | Sept. 2016 - Present</b>
-
-* Private coding tutor teaching D3.js, Redux/React.js, & Python.
-* Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
-
-<b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>
-
-* From provided UI sketches co-developed with a senior software engineer 7 screens that used a
-  <b>RESTful API</b>, Redux/React.js to allow contracts with clients to be created, edited, cloned, & deleted.
-* Planned out & delivered a 1 month project to create new reports using <b>RESTful APIs</b> & a
-  <b>PHP UI codebase</b>.
-
-<b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
-
-* Synchronized data across an internally built web app called Console and
-  Salesforce.com using technologies including RabbitMQ, Storm, PostgreSQL,
-  Gradle, Spock, JIRA, & Groovy ready for production.
-
-<b>TA for my favorite CS course at Virginia Tech Software Design & Data Structures | Spring 2014</b>
-
-* Taught 4 hour labs/week & held office hours on android development & Java.
-
-<b>Full time researcher at Vision Lab at John Hopkins University Clark Hall | Summer 2013</b>
-
-* Optimized code for random walk image segmentation for iOS app iMixPics.
-  [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) &
-  [Poster](./portfolio/Poster_iMixPics2.jpg)
-* Participated in a variety of biomedical research workshops through
-  [Computational Sensing & Robotics REU](http://lcsr.jhu.edu/reu/).
-
-<b>Part time researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>
-
-* Interdisciplinary research with neuroscientist Dr.Cate on models of spatial
-  learning in visual pathway of human brain with [Poster](<./portfolio/Scieneering_Poster_(5MB).jpg>).
-
-<b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
 
 ## COMMUNITIES
 
