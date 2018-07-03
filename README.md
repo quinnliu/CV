@@ -1,7 +1,7 @@
 ## Q Liu
 
 ## SUMMARY 
-As a kid I spent most of my time drawing everything I was curious about to eventually create a [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md). My last big drawing was a partial human brain which inspired me to research the human brain by coding the first [open source AGI in 2011](https://github.com/WalnutiQ/wAlnut). I majored in CS in college but was unhappy with the cost of higher CS education so I created [100+ non-clickbait YouTube videos on college level Math & CS that have grossed 6.6 million+ minutes watched](https://www.youtube.com/user/quinnliuvideos). In college I finished 10+ online CS & Machine Learning courses & worked in vision & neuroscience labs at John Hopkins & Virginia Tech. During & after college I loved learning how to be a founder at hackNY & full stack engineer at AppNexus. Although I <3 NYC I wanted to travel the world so I left AppNexus to become a remote coding tutor and travel Europe. I believe inexpensive quality higher education is still a unsolved problem so I founded www.infinity2o.com with my brother.
+As a kid I spent most of my time drawing everything I was curious about to eventually create a [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md). My last big drawing was a partial human brain which inspired me to research the human brain by coding the first [open source AGI in 2011](https://github.com/WalnutiQ/wAlnut). I majored in CS in college but was unhappy with the cost of higher CS education so I created [120+ non-clickbait YouTube videos on college level Math & CS that have grossed 7 million+ minutes watched](https://www.youtube.com/user/quinnliuvideos). In college I finished 10+ online CS & Machine Learning courses & worked in vision & neuroscience labs at John Hopkins & Virginia Tech. During & after college I loved learning how to be a founder at hackNY & full stack engineer at AppNexus. Although I <3 NYC I wanted to travel the world so I left AppNexus to become a remote coding tutor and travel Europe. I believe inexpensive quality higher education is still a unsolved problem so I founded www.infinity2o.com with my brother.
 
 q42liu@gmail.com
 
@@ -14,13 +14,6 @@ q42liu@gmail.com
 <b>MOOCS from Stanford, Columbia Uni., etc. | 2013 - Present</b>
 
 * Courses at [coursera.org(4), edx.org(1), udacity.com(1), udemy.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
-
-<b>Full time student at Classical Art Studio [barnstonestudios.com](barnstonestudios.com) | Summer 2010 & Summer 2011</b>
-
-* Worked 100+ hours/week for 10 weeks each summer to learn classical drawing,
-  design, & oil painting techniques including gold section & fletcher color
-  system to produce
-  [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md).
 
 ## JOB EXPERIENCE
 
@@ -59,8 +52,6 @@ q42liu@gmail.com
 * Interdisciplinary research with neuroscientist Dr.Cate on models of spatial
   learning in visual pathway of human brain with [Poster](<./portfolio/Scieneering_Poster_(5MB).jpg>).
 
-<b>Dishwasher at Virginia Tech West End | Fall 2012 & Spring 2013</b>
-
 ## FUN TECHNICAL PROJECTS
 <b>[www.infinity2o.com](https://www.infinity2o.com) | Jan. 2018</b>
 
@@ -91,20 +82,12 @@ q42liu@gmail.com
 
 <b>[Technical Drawings](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md) | 2002 - 2012</b>
 
-* To explore my curiosity drew everything I wanted to better understand.
-
 ## COMMUNITIES
 
 <b>[hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
 
 * Lived together with 25 other developers in the program & had a lecture series with founders of top NYC based tech companies including Joel Spolsky (Trello & stackoverflow), Jonah Peretti(HuffPo & Buzzfeed), Fred Wilson(USV), Zach Sims(codecademy), Ryan Bubinski(codecademy), etc. to learn the ins & outs of starting & leading a startup.
 * Help with accounting using quickbooks & review of hackNY applications.
-
-<b>Co-founded Visual Art Club at Virginia Tech | 2011 – 2013</b>
-
-* Taught 20+ members through 2 hour/week workshops about the classical visual
-  arts. Started the club with 2 friends also passionate about visual arts.
-* Members with competence in other areas were also given the opportunity to present.
 
 <b>[The Recurse Center](https://www.recurse.com/) | Summer 2015</b>
 
