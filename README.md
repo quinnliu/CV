@@ -21,7 +21,7 @@ q42liu@gmail.com
 <b>Full Stack Engineer & Co-founder | Jan. 2018 - Present</b>
 
 * Why: To help people find learning partners for their online courses.
-* How: React.js/Redux, Typescript/ES6, Python, Chrontab, RabbitMQ, Google & LinkedIn Oauth2, MongoDB, Express, Heroku, & Stripe API.
+* How: React.js/Redux, Typescript/ES6, Python, MongoDB, Redis, RabbitMQ, Google & LinkedIn Oauth2, Express, Heroku, Chrontab, & various APIs.
 
 <b>Coding tutor for [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos) | Sept. 2016 - Present</b>
 
