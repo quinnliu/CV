@@ -23,7 +23,7 @@ q42liu@gmail.com
 * Why: To help people find learning partners for their online courses.
 * How: React.js/Redux, Typescript/ES6, Python, MongoDB, Redis, RabbitMQ, Google & LinkedIn Oauth2, Express, Heroku, Chrontab, & various APIs.
 
-<b>Coding tutor for [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos) | Sept. 2016 - Present</b>
+<b>Coding Instructor for [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos) | Sept. 2016 - Present</b>
 
 * Taught D3.js, Redux/React.js, Full Stack web development, Python, etc. to 7 students.
 * Lived in Berlin, Prague, Copenhagen, Shang Hai, Hong Zhou, Virginia, Texas.
