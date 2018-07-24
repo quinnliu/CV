@@ -18,7 +18,7 @@ q42liu@gmail.com
 * Courses at [coursera.org(4), edx.org(1), udacity.com(1), udemy.com(1), & lynda.com(7)](./portfolio/courses_taken.md).
 
 ## JOB EXPERIENCE
-<b>Full Stack Engineer & Co-founder | Jan. 2018 - Present</b>
+<b>Full Stack Engineer & Co-founder of [infinity2o.com](http://www.infinity2o.com/) | Jan. 2018 - Present</b>
 
 * Why: To help people find learning partners for their online courses.
 * How: React.js/Redux, Typescript/ES6, Python, MongoDB, Redis, RabbitMQ, Google & LinkedIn Oauth2, Express, Heroku, Chrontab, & various APIs.
