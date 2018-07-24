@@ -9,7 +9,7 @@ q42liu@gmail.com
 
 ## EDUCATION
 
-<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>
+<b>Virginia Tech B.Eng. Computer Science [GPA: 3.59] | 2011-15</b>
 
 * Courses at [Virginia Tech(43)](./portfolio/courses_taken.md)
 
@@ -25,8 +25,8 @@ q42liu@gmail.com
 
 <b>Coding tutor for [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos) | Sept. 2016 - Present</b>
 
-* Private coding tutor teaching D3.js, Redux/React.js, & Python.
-* Lived in Berlin, Prague, Copenhagen, Virginia, & Texas.
+* Taught D3.js, Redux/React.js, Full Stack web development, Python, etc. to 7 students.
+* Lived in Berlin, Prague, Copenhagen, Shang Hai, Hong Zhou, Virginia, Texas.
 
 <b>Full Stack Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>
 
