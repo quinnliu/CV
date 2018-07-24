@@ -1,11 +1,9 @@
 ## Q Liu 
 
-U.S. & Canadian Citizen :)
+q42liu@gmail.com | U.S. & Canadian Citizen :)
 
 ## SUMMARY 
 As a kid I spent most of my time drawing everything I was curious about to eventually create a [visual portfolio](https://github.com/quinnliu/CV/blob/master/portfolio/artwork.md). My last big drawing was a partial human brain which inspired me to research the human brain by coding the first [open source AGI in 2011](https://github.com/WalnutiQ/wAlnut). I majored in CS in college but was unhappy with the cost of higher CS education so I created [120+ non-clickbait YouTube videos on college level Math & CS that have grossed 7 million+ minutes watched](https://www.youtube.com/user/quinnliuvideos). In college I finished 10+ online CS & Machine Learning courses & worked in vision & neuroscience labs at John Hopkins & Virginia Tech. During & after college I loved learning how to be a founder at hackNY & full stack engineer at AppNexus. Although I <3 NYC I wanted to travel the world so I left AppNexus to become a remote coding tutor and travel Europe. I believe inexpensive quality higher education is still a unsolved problem so I founded www.infinity2o.com with my brother.
-
-q42liu@gmail.com
 
 ## EDUCATION
 
@@ -23,19 +21,19 @@ q42liu@gmail.com
 * Why: To help people find learning partners for their online courses.
 * How: React.js/Redux, Typescript/ES6, Python, MongoDB, Redis, RabbitMQ, Google & LinkedIn Oauth2, Express, Heroku, Chrontab, & various APIs.
 
-<b>Coding Instructor for [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos) | Sept. 2016 - Present</b>
+<b>Full Stack Instructor for [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos) | Sept. 2016 - Present</b>
 
 * Taught D3.js, Redux/React.js, Full Stack web development, Python, etc. to 7 students.
 * Lived in Berlin, Prague, Copenhagen, Shang Hai, Hong Zhou, Virginia, Texas.
 
-<b>Full Stack Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>
+<b>Full Stack Business Systems Engineer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>
 
 * From provided UI sketches co-developed with a senior software engineer 7 screens that used a
   <b>RESTful API</b>, Redux/React.js to allow contracts with clients to be created, edited, cloned, & deleted.
 * Planned out & delivered a 1 month project to create new reports using <b>RESTful APIs</b> & a
   <b>PHP UI codebase</b>.
 
-<b>Backend Business systems developer at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
+<b>Backend Business Systems Engineer Intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>
 
 * Synchronized data across an internally built web app called Console and
   Salesforce.com using technologies including RabbitMQ, Storm, PostgreSQL,
@@ -45,7 +43,7 @@ q42liu@gmail.com
 
 * Taught 4 hour labs/week & held office hours on android development & Java.
 
-<b>iOS Developer at Vision Lab at John Hopkins University Clark Hall | Summer 2013</b>
+<b>iOS Engineer at Vision Lab at John Hopkins University Clark Hall | Summer 2013</b>
 
 * Optimized code for random walk image segmentation for iOS app iMixPics.
   [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) &
@@ -53,7 +51,7 @@ q42liu@gmail.com
 * Participated in a variety of biomedical research workshops through
   [Computational Sensing & Robotics REU](http://lcsr.jhu.edu/reu/).
 
-<b>Java Developer at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>
+<b>Java Engineer at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>
 
 * Interdisciplinary research with neuroscientist Dr.Cate on models of spatial
   learning in visual pathway of human brain with [Poster](<./portfolio/Scieneering_Poster_(5MB).jpg>).
