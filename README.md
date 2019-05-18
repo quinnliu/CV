@@ -17,6 +17,7 @@
 - previously fullstack engineer @ [appnexus.com](https://www.appnexus.com)
 - previously iOS engineer @ john hopkins vision lab
 - previously java engineer @ virginia tech vision neuroscience lab
+- previously dishwasher @ virginia tech west end
 
 ### communities
 
