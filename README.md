@@ -23,4 +23,4 @@
 
 - hackNY.org from 2015 to present
 - host monthly NYC reading/business ideas/poker club 4 [fs.blog](https://fs.blog) from 2018 to 2019
-- founded art club @ virginia tech from 2011 -> 2013
+- founded art club @ virginia tech from 2011 to 2013
