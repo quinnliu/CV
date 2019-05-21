@@ -24,3 +24,7 @@
 - hackNY.org from 2015 to present
 - host monthly NYC reading/business ideas/poker club 4 [fs.blog](https://fs.blog) from 2018 to 2019
 - founded art club @ virginia tech from 2011 to 2013
+
+### lived in 
+
+- Ji Nan, Colorado, Missouri, Ontario, Virginia, Baltimore, Union Square, Stuyvesant Town, Flatiron, Berlin, Prague, Copenhagen, Texas, Williamsburg, Bushwick, LES, SoHo, West Village, New Jersey, Hong Zhou, Shang Hai, Qing Dao, Wall Street, DC, Philadelphia, Dumbo, Domino Park, garage & UPenn
