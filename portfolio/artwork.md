@@ -4,9 +4,6 @@
 
 The classic HB pencil (2009)
 
-I did this drawing during a time in my life when I didn't understand that self confidence should come
-from being comfortable with who you are and not by the things you have. Because of my ignorance I hurt someone I loved.
-
 ![alt text](https://raw.githubusercontent.com/quinnliu/CV/master/portfolio/artwork/sand_self_portrait.png)
 
 ## Boar Skull
@@ -63,14 +60,6 @@ a beautiful roof for a cathedral.
 
 Conte (2011)
 
-In 2011 when I sat down for my very first figure drawing class I was
-so nervous I remember my pencil literally slipped from my sweaty 
-hands. I was in a class of 20 people, but the model immediately 
-recognized that I was new. And then the craziest thing happened,
-he walked over and we started talking. I can't even remember what
-he said but his words gave me so much comfort. And then I drew one
-of the worst figures ever. This one is a lot better :)
-
 ![alt text](https://raw.githubusercontent.com/quinnliu/CV/master/portfolio/artwork/sitting_man.png)
 
 ## Movement
@@ -88,9 +77,6 @@ Marker (2011)
 ## Beauty
 
 Photoshop CS5 (2012)
-
-The right amount of skin, fat, and bone may be great, but they make
-0% of your brain which is who you really are.
 
 ![alt text](https://raw.githubusercontent.com/quinnliu/CV/master/portfolio/artwork/beauty.jpg)
 
