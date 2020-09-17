@@ -4,7 +4,7 @@
 
 The classic HB pencil (2009)
 
-![alt text](https://raw.githubusercontent.com/quinnliu/CV/master/portfolio/artwork/sand_self_portrait.png)
+![alt text](https://github.com/quinnliu/cv/blob/master/portfolio/artwork/sand_self_portrait.png)
 
 ## Boar Skull
 
